@@ -1,0 +1,44 @@
+{
+  "teams": [
+    {
+      "name": "Red Dragons FC",
+      "totalPoints": 82
+    },
+    {
+      "name": "Atlas United",
+      "totalPoints": 77
+    },
+    {
+      "name": "Quantum Warriors",
+      "totalPoints": 74
+    },
+    {
+      "name": "Storm City",
+      "totalPoints": 66
+    },
+    {
+      "name": "Royal Phoenix",
+      "totalPoints": 63
+    },
+    {
+      "name": "Black Bears Athletic",
+      "totalPoints": 59
+    },
+    {
+      "name": "Silver Knights",
+      "totalPoints": 57
+    },
+    {
+      "name": "Thunder Valley FC",
+      "totalPoints": 54
+    },
+    {
+      "name": "Golden Eagles United",
+      "totalPoints": 52
+    },
+    {
+      "name": "Emerald Titans",
+      "totalPoints": 48
+    }
+  ]
+}
